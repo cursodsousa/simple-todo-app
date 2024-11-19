@@ -9,11 +9,6 @@
       "id": "2",
       "description": "Study English",
       "done": true
-    },
-    {
-      "id": "3",
-      "description": "Read a book",
-      "done": true
     }
   ]
 }
